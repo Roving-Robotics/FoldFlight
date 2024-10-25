@@ -95,3 +95,5 @@ An amphibious VTOL-UAV to demonstrate mechanical design and controls implementat
     - hurts aerodynamics
 * Notes:
     Very likely the better candidate - will continue to look for alternatives
+
+
