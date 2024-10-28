@@ -25,21 +25,29 @@ An amphibious VTOL-UAV to demonstrate mechanical design and controls implementat
 
 ## To Do:
 
-1) motor shopping -> [hobbyking](https://hobbyking.com/en_us/power-systems/electric-motors.html#q=&idx=hbk_live_magento_en_us_products&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bmotor_can_type%5D%5B0%5D=Outrunner&dFR%5Bmotor_features%5D%5B0%5D=Brushless%20-%20Sensorless&dFR%5Bwarehouses%5D%5B0%5D=USA&dFR%5Bwarehouses%5D%5B1%5D=Global&dFR%5Bwarehouses_stock_data%5D%5B0%5D=USA%7C3&dFR%5Bwarehouses_stock_data%5D%5B1%5D=Global%7C3&hFR%5Bcategories.level0%5D%5B0%5D=Power%20Systems%20%2F%2F%2F%20Electric%20Motors&nR%5Bhbk_price.stock_2_group_2%5D%5B<%3D%5D%5B0%5D=51&is_v=1)
-2) the rest of the hardware: 
-    - power dist board
-    - flight controller
-    - esc w: 4 independent motors & 4 servos *(two can be linked for transforming)*
-3) fuselage & airfoils
+1) the rest of the hardware: 
+    - power dist board -> leftover
+    - flight controller -> arduino uno & rc controller -> leftover
+    - escs for each motor -> attached to leftover motors
+    - rc transmitter and reciever -> bought
+    - 
+2) fuselage
     - design
-    - construction
-4) test flights #1
+    - construction -> lasercut ribs, wrap in abs w/ heat gun
+3) airfoil
+    - [design - NACA 2412](http://www.airfoiltools.com/airfoil/details?airfoil=naca2412-il)
+4) test flight #1: standard fixed wing flight
 5) hinge mechanism/ slider
     - prototyping
     - implementation
-6) test flgihts #2
+    - design -> will determine fuseloge design
+    a) idea 1: I beam roller
+        - i beam along bottom of fuseloge, bearing roller cart on belt along track run by stepper motor
+    b) idea 2: Worm gear drive
+        - cart moves along worm gear also driven by stepper motor
+6) test flgihts #2: standard quadcopter flight w mechanism
 7) flight controls
-8) test flights #3  
+8) test flights #3: in flight transformation
 
 ## Brainstorming 
 
