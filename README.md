@@ -11,7 +11,9 @@ An amphibious VTOL-UAV to demonstrate mechanical design and controls implementat
 [Victor Cardona](linkedin.com/in/victor-cardona-6b6856235/)
 - Airfoil Design & Assembly
 - Fuselage Balancing
-- Folding Mechanism 
+- Folding Mechanism
+
+[Kalen Jaroszewski](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## Research:
@@ -19,7 +21,7 @@ An amphibious VTOL-UAV to demonstrate mechanical design and controls implementat
 - [design spec ratios](https://www.radiocontrolinfo.com/rc-calculators/rc-airplane-design-calculator/)
 - [motor calculator](https://rcplanes.online/calc_motor.htm)
 - Thrust to weight ratio should be 1.3~1.5 (should round up)
-- Weight probably 10 lbs (assume 15lbs)
+- Weight ~15 lbs
 - Lift coefieccient should be determined experimentally, should be 1~1.5 (should round down)
 - 
 
